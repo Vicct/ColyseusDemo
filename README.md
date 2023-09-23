@@ -36,7 +36,7 @@ In order to start the Colyseus server, just use go to the server folder and then
 `c:\ColyseusServer\npm start`
 
 Then the server would start and the following screen would appear>
-![Colyseus Server](Image/Code_o5VOl8gw0x.png)
+![Colyseus Server](Images/Code_o5VOl8gw0x.png)
 
 Then the server would start using the 2567 port to attend user connections. 
 
@@ -53,7 +53,7 @@ In order to see client's connections and the multiplayer effect, you can use Uni
 
 Check that the capsule moves to where the player clicks in the two clients. 
 
-![Starting the clients](Image/15kjxfbhhI.gif)
+![Starting the clients](Images/15kjxfbhhI.gif)
 
 
 
