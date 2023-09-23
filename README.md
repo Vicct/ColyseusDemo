@@ -11,7 +11,7 @@ In this demo, the Unity client is configured to connect with the Colyseus server
 
 ## Installing the Colyseus Server
 
-* Step 1: Prerequisites
+* Prerequisites
 Before we dive into installing the Colyseus server, make sure you have the following prerequisites in place:
 
 Access the Colyseus' server documentation and follow the proposed step as prerequisites;
@@ -30,6 +30,16 @@ As part of the prerequisites, install the git tool from the website [https://git
 Download and install the visual studio code for code editing. The link to download this tool is [https://code.visualstudio.com/](https://code.visualstudio.com/).
 ![Visual Studio Code](Images/msedge_iYhyKyKt5t.png)
 
+# Starting the Colyseus server
+In order to start the Colyseus server, just use go to the server folder and then execute the following command
+
+`c:\ColyseusServer\npm start`
+
+Then the server would start and the following screen would appear>
+![Colyseus Server](Image/Code_o5VOl8gw0x.png)
+
+Then the server would start using the 2567 port to attend user connections. 
+
 * Part 2: Configuring the Unity Client
 * Step 1: Set Up Your Unity Project
 In Unity, create a new 3D project, depending on your game's requirements.
@@ -37,6 +47,17 @@ In Unity, create a new 3D project, depending on your game's requirements.
 * Step 2: Copy and paste the files avobe for the Client for Unity
 Once the Unity client y open, just copy all the folders avobe except the "ColyseusServer" and paste it over the Unity client folder structure. 
 ![Client preparation](Images/explorer_6LsRiwAGWn.png)
+
+# Starting the clients in Unity 
+In order to see client's connections and the multiplayer effect, you can use Unity's client test and a Windows compiled client. Then open the Windows client and introduce the Colyseus server information and the same in the second client in Unity.
+
+Check that the capsule moves to where the player clicks in the two clients. 
+
+![Starting the clients](Image/15kjxfbhhI.gif)
+
+
+
+
 
 
 
