@@ -24,11 +24,11 @@ Ensure you have Node.js and npm (Node Package Manager) installed on your server.
 
 * 2 Install git SCM:
 As part of the prerequisites, install the git tool from the website [https://git-scm.com/downloads](https://git-scm.com/downloads).
-![Git SCM installation](Image\msedge_swdz4QQqQ6.png)
+![Git SCM installation](Images\msedge_swdz4QQqQ6.png)
 
 * 3 Install the Visual Studio Code:
 Download and install the visual studio code for code editing. The link to download this tool is [https://code.visualstudio.com/](https://code.visualstudio.com/).
-![Visual Studio Code](Image\msedge_iYhyKyKt5t.png)
+![Visual Studio Code](Images\msedge_iYhyKyKt5t.png)
 
 * Part 2: Configuring the Unity Client
 * Step 1: Set Up Your Unity Project
@@ -36,7 +36,7 @@ In Unity, create a new 3D project, depending on your game's requirements.
 
 * Step 2: Copy and paste the files avobe for the Client for Unity
 Once the Unity client y open, just copy all the folders avobe except the "ColyseusServer" and paste it over the Unity client folder structure. 
-![Client preparation](Image\explorer_6LsRiwAGWn.png)
+![Client preparation](Images\explorer_6LsRiwAGWn.png)
 
 
 
